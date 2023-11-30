@@ -1,0 +1,167 @@
+{
+    "sdmxtraining" : {
+        "courses" : [
+             {
+                "topic" : "SDMX",
+                "title" : "SDMX Foundation Course",
+                "type"  : "elearning",
+                "price" : "free",
+                "summary" : "This course aims to introduce Statistical Data and Metadata eXchange (SDMX) to managers, supervisors, statisticians, IT experts and other staff of national statistical offices, line ministries of national statistical systems, regional and international organizations, and other organizations involved in statistical data and metadata management.",
+                "sponsor" : "ADB",
+                "url" : "https://elearn.adb.org/course/view.php?id=486",
+                "image" : "https://elearn.adb.org/pluginfile.php/111329/course/overviewfiles/SDMX_logo.jpg"
+            },
+            {
+                "topic" : "SDMX, Tools",
+                "title" : "SDMX Tools Course",
+                "type"  : "elearning",
+                "price" : "free",
+                "summary" : "This course will provide an overview of SDMX tools for common scenarios and use cases, and it will delve into a detailed exploration of the features and practical demonstrations.",
+                "sponsor" : "ADB",
+                "url" : "https://elearn.adb.org/enrol/index.php?id=443",
+                "image" : "https://elearn.adb.org/pluginfile.php/108305/course/overviewfiles/SDMX%20Tools%20Course.png"
+            },
+            {
+                "topic" : "FMR, Tools",
+                "title" : "FMR for beginners 2",
+                "type"  : "elearning",
+                "price" : "free",
+                "summary" : "An introductory course for those new to FMR",
+                "sponsor" : "BIS",
+                "url" : "https://www.sdmx.io/resources/elearning/getting-started-running-fmr-in-docker",
+                "image" : "https://www.sdmx.io/images/elearning/running_fmr_docker.png"
+            },
+            {
+                "topic" : "SDMX data modelling, FMR",
+                "title" : "Essential SDMX Structural Modelling",
+                "type"  : "elearning",
+                "price" : "free",
+                "summary" : "This course aims to provide you with the knowledge and skills to transform and map statistical logical models to the SDMX standard.",
+                "sponsor" : "BIS",
+                "url" : "https://www.sdmx.io/resources/elearning/essential-sdmx-structural-modelling",
+                "image" : "https://www.sdmx.io/images/elearning/essential_sdmx_structural_modelling.png"
+            },
+            {
+                "topic" : "SDMX data modelling, FMR",
+                "title" : "Introduction to Structural Modelling for Statisticians",
+                "type"  : "elearning",
+                "price" : "free",
+                "summary" : "This course aims to provide you with an understanding of and ability to create structural models of statistical data.",
+                "sponsor" : "BIS",
+                "url" : "https://www.sdmx.io/resources/elearning/introduction-to-structural-modelling-for-statisticians",
+                "image" : "https://www.sdmx.io/images/elearning/modelling_statisticians.png"
+            },
+            {
+                "topic" : "SDMX data modelling, FMR",
+                "title" : "SDMX data conversion fundamentals using Fusion Metadata Registry",
+                "type"  : "elearning",
+                "price" : "free",
+                "summary" : "This course how to convert datasets to different transmission formats interactively using the FMR web user interface.",
+                "sponsor" : "BIS",
+                "url" : "https://www.sdmx.io/resources/elearning/data-conversion-fundamentals/",
+                "image" : "https://www.sdmx.io/images/elearning/data_conversion.png"
+            },
+            {
+                "topic" : "SDMX",
+                "title" : "SDMX Basics",
+                "type"  : "In-person",
+                "price" : "free",
+                "summary" : "This course will help you understand the scope, architecture, and features of SDMX, in particular those features that support more efficient processes for reporting, exchanging and disseminating statistical data and metadata.",
+                "sponsor" : "Eurostat",
+                "url" : "https://cros-legacy.ec.europa.eu/content/estp-course-sdmx-basics_en",
+                "image" : "https://cros-legacy.ec.europa.eu/sites/default/themes/cros/logo.png"
+            },
+            {
+                "topic" : "SDMX Tools",
+                "title" : "Euro-SDMX Registry",
+                "type"  : "Online",
+                "price" : "free",
+                "summary" : "This course will help you to manage and store SDMX artefacts using the graphical user interface of the Euro SDMX Registry.",
+                "sponsor" : "Eurostat",
+                "url" : "https://cros-legacy.ec.europa.eu/content/euro-sdmx-registry-0_en",
+                "image" : "https://cros-legacy.ec.europa.eu/sites/default/themes/cros/logo.png"
+            },
+            {
+                "topic" : "SDMX Tools",
+                "title" : "SDMX Converter",
+                "type"  : "Online",
+                "price" : "free",
+                "summary" : "This course enables participants to learn about the SDMX Converter, one of the tools Eurostat developed to support its implementation of the SDMX standard for the exchange and validation of data.",
+                "sponsor" : "Eurostat",
+                "url" : "https://cros-legacy.ec.europa.eu/content/sdmx-converter-1_en",
+                "image" : "https://cros-legacy.ec.europa.eu/sites/default/themes/cros/logo.png"
+            },
+            {
+                "topic" : "SDMX data modelling, Labour Statistics",
+                "title" : "SDMX for Labour Statistics",
+                "type"  : "Online",
+                "price" : "905 EUROS",
+                "summary" : "The objective of the course is to enable participants to understand the scope, architecture and features of SDMX, in particular those features that support more efficient processes for reporting, exchanging and disseminating statistical data and metadata.",
+                "sponsor" : "ILO",
+                "url" : "https://www.itcilo.org/courses/sdmx-statistical-data-and-metadata-exchange",
+                "image" : "https://www.itcilo.org/sites/default/files/styles/course_teaser_image_m/public/courses/cover-images/A9717177.jpeg?h=9a72f953&itok=VYk8Vg79"
+            },
+            {
+                "topic" : "SDMX",
+                "title" : "An introduction to SDMX for data producers",
+                "type"  : "elearning, self-paced",
+                "price" : "free",
+                "summary" : "In this course, you will learn about the Statistical Data and Metadata eXchange standard and how it is applied in the .Stat Suite context.",
+                "sponsor" : "SIS-CC (OECD)",
+                "url" : "https://academy.siscc.org/courses/an-introduction-to-sdmx-for-data-producers",
+                "image" : "https://academy.siscc.org/wp-content/uploads/2022/10/SDMX-puzzle-piece-together-2048x1170.png"                
+            },
+            {
+                "topic" : "SDMX data modelling",
+                "title" : "SDMX vocabulary for beginners",
+                "type"  : "elearning, self-paced",
+                "price" : "free",
+                "summary" : "In this course, you will learn about routine SDMX vocabulary to describe and define statistical data tables.",
+                "sponsor" : "SIS-CC (OECD)",
+                "url" : "https://academy.siscc.org/courses/sdmx-vocabulary-for-beginners",
+                "image" : "https://academy.siscc.org/wp-content/uploads/2023/01/donald-tran-Lvy_S3ELzIs-unsplash_.jpg"              
+            },
+            {
+                "topic" : "SDMX data modelling, .Stat Suite, SDMX Matrix Generator",
+                "title" : "An introduction to SDMX structural modelling for data producers",
+                "type"  : "elearning, self-paced",
+                "price" : "free",
+                "summary" : "In this course, you will learn about the Statistical Data and Metadata eXchange data modelling and how to practically apply it in the .Stat Suite context.",
+                "sponsor" : "SIS-CC (OECD)",
+                "url" : "https://academy.siscc.org/courses/an-introduction-to-sdmx-structural-modelling-for-data-producers",
+                "image" : "https://academy.siscc.org/wp-content/uploads/2022/10/data-blocks-modeler-2048x1170.png"              
+            },
+            {
+                "topic" : "SDMX data modelling",
+                "title" : "SDMX vocabulary for data managers",
+                "type"  : "elearning, self-paced",
+                "price" : "free",
+                "summary" : "In this course, you will further extend your understanding of basic SDMX terms for general data related processes.",
+                "sponsor" : "SIS-CC (OECD)",
+                "url" : "https://academy.siscc.org/courses/sdmx-vocabulary-for-data-managers",
+                "image" : "https://academy.siscc.org/wp-content/uploads/2023/03/sven-brandsma-C5SUkYZT7nU-unsplash-scaled.jpg"              
+            },
+            {
+                "topic" : "SDMX data modelling, .Stat Suite",
+                "title" : "Disseminating data with an optimised end-user experience",
+                "type"  : "elearning, self-paced",
+                "price" : "free",
+                "summary" : "In this course, you will learn best practices to optimise the user experience of data disseminated with the .Stat Suite Data Explorer.",
+                "sponsor" : "SIS-CC (OECD)",
+                "url" : "https://academy.siscc.org/courses/disseminating-data-with-an-optimised-end-user-experience",
+                "image" : "https://academy.siscc.org/wp-content/uploads/2022/10/Disseminating-data-with-an-optimised-end-user-experience-Copy.png"              
+            },
+            {
+                "topic" : "SDMX data modelling, SDGs",
+                "title" : "SDMX for the Sustainable Development Goals",
+                "type"  : "elearning",
+                "price" : "free",
+                "summary" : "This course is designed to support data producers/compilers at the national, regional and global levels in modelling and sharing Sustainable Development Goals (SDG) data following the SDMX standard.",
+                "sponsor" : "UNSD",
+                "url" : "https://learning.officialstatistics.org/enrol/index.php?id=96",
+                "image" : "https://learning.officialstatistics.org/pluginfile.php/7979/course/overviewfiles/sdmx-sdgs.png"              
+            }
+            
+        ]
+    }
+}
