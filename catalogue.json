@@ -68,8 +68,8 @@
                 "price" : "free",
                 "summary" : "This course will help you understand the scope, architecture, and features of SDMX, in particular those features that support more efficient processes for reporting, exchanging and disseminating statistical data and metadata.",
                 "sponsor" : "Eurostat",
-                "url" : "https://cros-legacy.ec.europa.eu/content/estp-course-sdmx-basics_en",
-                "image" : "https://cros-legacy.ec.europa.eu/sites/default/themes/cros/logo.png"
+                "url" : "https://cros.ec.europa.eu/book-page/estp-course-sdmx-basics",
+                "image" : "https://cros.ec.europa.eu/system/files/inline-images/EN_03_Euro_SDMX_REGISTRY.png"
             },
             {
                 "topic" : "SDMX Tools",
@@ -78,8 +78,8 @@
                 "price" : "free",
                 "summary" : "This course will help you to manage and store SDMX artefacts using the graphical user interface of the Euro SDMX Registry.",
                 "sponsor" : "Eurostat",
-                "url" : "https://cros-legacy.ec.europa.eu/content/euro-sdmx-registry-0_en",
-                "image" : "https://cros-legacy.ec.europa.eu/sites/default/themes/cros/logo.png"
+                "url" : "https://cros.ec.europa.eu/book-page/euro-sdmx-registry-course",
+                "image" : "https://cros.ec.europa.eu/system/files/inline-images/EN_03_Euro_SDMX_REGISTRY.png"
             },
             {
                 "topic" : "SDMX Tools",
@@ -88,8 +88,8 @@
                 "price" : "free",
                 "summary" : "This course enables participants to learn about the SDMX Converter, one of the tools Eurostat developed to support its implementation of the SDMX standard for the exchange and validation of data.",
                 "sponsor" : "Eurostat",
-                "url" : "https://cros-legacy.ec.europa.eu/content/sdmx-converter-1_en",
-                "image" : "https://cros-legacy.ec.europa.eu/sites/default/themes/cros/logo.png"
+                "url" : "https://cros.ec.europa.eu/book-page/sdmx-converter-course",
+                "image" : "https://cros.ec.europa.eu/system/files/inline-images/EN_05_SDMX_CONVERTER.png"
             },
             {
                 "topic" : "SDMX data modelling, Labour Statistics",
