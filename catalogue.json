@@ -22,19 +22,49 @@
                 "image" : "https://elearn.adb.org/pluginfile.php/108305/course/overviewfiles/SDMX%20Tools%20Course.png"
             },
             {
-                "topic" : "FMR, Tools",
-                "title" : "FMR for beginners 2",
+                "topic" : "SDMX Tools",
+                "title" : "Running Fusion Metadata Registry in Docker",
                 "type"  : "elearning",
                 "price" : "free",
-                "summary" : "An introductory course for those new to FMR",
+                "summary" : "A simple and quick way to get started with Fusion Metadat Registry in 10 minutes.",
                 "sponsor" : "BIS",
                 "url" : "https://www.sdmx.io/resources/elearning/getting-started-running-fmr-in-docker",
                 "image" : "https://www.sdmx.io/images/elearning/running_fmr_docker.png"
             },
             {
+                "topic" : "SDMX Tools",
+                "title" : "Fusion Metadata Registry beginners hands on",
+                "type"  : "Webinar recording",
+                "price" : "free",
+                "summary" : "A 1h30m webinar recording introducing Fusion Metadata Registry for beginners",
+                "sponsor" : "BIS",
+                "url" : "https://www.sdmx.io/resources/elearning/introduction-to-fmr",
+                "image" : "https://www.sdmx.io/images/elearning/webinar_introduction_to_fmr%28recording%29.png"
+            },
+            {
+                "topic" : "SDMX data processing, FMR",
+                "title" : "Validating SDMX data using Fusion Metadata Registry",
+                "type"  : "Webinar recording",
+                "price" : "free",
+                "summary" : "A 1h30m webinar recording exploring how Fusion Metadata Registry can be used to structurally validate SDMX datasets",
+                "sponsor" : "BIS",
+                "url" : "https://www.sdmx.io/resources/elearning/fmr-validating-sdmx-data",
+                "image" : "https://www.sdmx.io/images/elearning/validate-recording.jpg"
+            },
+            {
+                "topic" : "SDMX data collection, FMR",
+                "title" : "Fusion Metadata Registry - data collection using Excel templates",
+                "type"  : "Webinar recording",
+                "price" : "free",
+                "summary" : "A 1h30m webinar recording exploring how Fusion Metadata Registry's Excel reporting templates feature can simplify data collection",
+                "sponsor" : "BIS",
+                "url" : "https://www.sdmx.io/resources/elearning/datacollection-with-excel-templates",
+                "image" : "https://www.sdmx.io/images/elearning/exceltemplate-recording.jpg"
+            },
+            {
                 "topic" : "SDMX data modelling, FMR",
                 "title" : "Essential SDMX Structural Modelling",
-                "type"  : "elearning",
+                "type"  : "elearning, self-paced",
                 "price" : "free",
                 "summary" : "This course aims to provide you with the knowledge and skills to transform and map statistical logical models to the SDMX standard.",
                 "sponsor" : "BIS",
@@ -44,7 +74,7 @@
             {
                 "topic" : "SDMX data modelling, FMR",
                 "title" : "Introduction to Structural Modelling for Statisticians",
-                "type"  : "elearning",
+                "type"  : "elearning, self-paced",
                 "price" : "free",
                 "summary" : "This course aims to provide you with an understanding of and ability to create structural models of statistical data.",
                 "sponsor" : "BIS",
@@ -54,9 +84,9 @@
             {
                 "topic" : "SDMX data modelling, FMR",
                 "title" : "SDMX data conversion fundamentals using Fusion Metadata Registry",
-                "type"  : "elearning",
+                "type"  : "elearning, self-paced",
                 "price" : "free",
-                "summary" : "This course how to convert datasets to different transmission formats interactively using the FMR web user interface.",
+                "summary" : "This course explores how to convert datasets to different transmission formats interactively using the FMR web user interface.",
                 "sponsor" : "BIS",
                 "url" : "https://www.sdmx.io/resources/elearning/data-conversion-fundamentals/",
                 "image" : "https://www.sdmx.io/images/elearning/data_conversion.png"
