@@ -2,7 +2,6 @@ name: sdmx.org learning catalogue entry
 description: Add an entry to the sdmx.org catalogue of learning resources
 title: (e.g. New elearning on SDMX data modelling)
 labels: ["changerequest"]
-projects: ["glenntav/4"]
 body:
   - type: markdown
     attributes:
@@ -115,4 +114,4 @@ body:
       label: The URL of an image for your course
       description: Please enter a publicly-accessible URL of an image for your course in the sdmx.org learning catalogue
     validations:
-      required: true         
+      required: true
