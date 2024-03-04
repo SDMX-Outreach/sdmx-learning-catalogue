@@ -1,7 +1,7 @@
 # sdmx-learning-catalogue
 Welcome to the Central inventory for SDMX learning resources GitHub project and source code repository.
 
-This repository is linked to the Learning Resources page at https://sdmx.org/learning/ that is maintained by the SDMX Secretariat.
+This repository is linked to the Learning Resources page at [https://sdmx.org/learning/](https://sdmx.org/?page_id=2555) that is maintained by the SDMX Secretariat.
 
 ------------------------------------------
 
