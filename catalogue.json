@@ -112,6 +112,16 @@
                 "image" : "https://sdmx.io/images/elearning/card-fmr-pro-tips.png"
             },
             {
+                "topic" : "SDMX data modelling, FMR",
+                "title" : "Recoding: Transforming Data into Different Structures",
+                "type"  : "elearning, self-paced",
+                "price" : "free",
+                "summary" : "Throughout their lifecycle, data are subjected to many operations and transformations as they are massaged, aggregated, summarised, analysed, and customised for a wide range of outputs. The primary focus of this module is on recoding data using the SDMX standard and Fusion Metadata Registry (FMR).",
+                "sponsor" : "BIS",
+                "url" : "https://www.sdmx.io/resources/elearning/recoding-transforming-data-into-different-structures/",
+                "image" : "https://sdmx.io/images/elearning/card-recoding-data.png"
+            },
+            {
                 "topic" : "SDMX",
                 "title" : "SDMX Basics",
                 "type"  : "In-person",
