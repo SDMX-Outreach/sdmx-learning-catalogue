@@ -92,6 +92,16 @@
                 "image" : "https://www.sdmx.io/images/elearning/data_conversion.png"
             },
             {
+                "topic" : "SDMX data modelling, FMR",
+                "title" : "Essential SDMX and the Fusion Metadata Registry (FMR)",
+                "type"  : "elearning, self-paced",
+                "price" : "free",
+                "summary" : "Building upon the knowledge and skills previously acquired regarding SDMX structural modelling, this module introduces practical knowledge on how to create and manage an SDMX structural model using the Fusion Metadata Registry (FMR).",
+                "sponsor" : "BIS",
+                "url" : "https://www.sdmx.io/resources/elearning/essential-sdmx-and-the-fusion-metadata-registry/",
+                "image" : "https://sdmx.io/images/elearning/card-essential-sdmx-n-fmr.png"
+            },
+            {
                 "topic" : "SDMX",
                 "title" : "SDMX Basics",
                 "type"  : "In-person",
