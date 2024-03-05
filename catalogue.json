@@ -102,6 +102,16 @@
                 "image" : "https://sdmx.io/images/elearning/card-essential-sdmx-n-fmr.png"
             },
             {
+                "topic" : "SDMX data modelling, FMR",
+                "title" : "Fusion Metadata Registry (FMR) Pro Tips",
+                "type"  : "elearning, self-paced",
+                "price" : "free",
+                "summary" : "The Fusion Metadata Registry (FMR) is a SDMX v2.0, v2.1, and v3.0 compliant structural metadata registry with an extensive set of features. This module is a collection of tips to highlight some of these capabilities and practical ideas on how to use the tool to accomplish your structural metadata maintenance tasks in an efficient manner.",
+                "sponsor" : "BIS",
+                "url" : "https://www.sdmx.io/resources/elearning/fusion-metadata-registry-fmr-pro-tips/",
+                "image" : "https://sdmx.io/images/elearning/card-fmr-pro-tips.png"
+            },
+            {
                 "topic" : "SDMX",
                 "title" : "SDMX Basics",
                 "type"  : "In-person",
