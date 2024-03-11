@@ -116,7 +116,7 @@
                 "title" : "Recoding: Transforming Data into Different Structures",
                 "type"  : "elearning, self-paced",
                 "price" : "free",
-                "summary" : "Statistical agencies, Central Banks, and other data-driven organisations need to collect data. MS Excel is a common tool used for this purpose. Metadata driven MS XLSX documents enable data collectors to design and run efficient data collection processes in accordance with the SDMX structural model. This approach makes it easier to validate, to integrate these data into production workflows, and to improve data quality.",
+                "summary" : "Throughout their lifecycle, data are subjected to many operations and transformations as they are massaged, aggregated, summarised, analysed, and customised for a wide range of outputs. The primary focus of this module is on recoding data using the SDMX standard and Fusion Metadata Registry (FMR).",
                 "sponsor" : "BIS",
                 "url" : "https://www.sdmx.io/resources/elearning/recoding-transforming-data-into-different-structures/",
                 "image" : "https://sdmx.io/images/elearning/card-recoding-data.png"
@@ -126,7 +126,7 @@
                 "title" : "Data Collection with XLSX Templates: All about XLSX Templates",
                 "type"  : "elearning, self-paced",
                 "price" : "free",
-                "summary" : "Throughout their lifecycle, data are subjected to many operations and transformations as they are massaged, aggregated, summarised, analysed, and customised for a wide range of outputs. The primary focus of this module is on recoding data using the SDMX standard and Fusion Metadata Registry (FMR).",
+                "summary" : "Statistical agencies, Central Banks, and other data-driven organisations need to collect data. MS Excel is a common tool used for this purpose. Metadata driven MS XLSX documents enable data collectors to design and run efficient data collection processes in accordance with the SDMX structural model. This approach makes it easier to validate, to integrate these data into production workflows, and to improve data quality.",
                 "sponsor" : "BIS",
                 "url" : "https://www.sdmx.io/resources/elearning/data-collection-with-xlsx-templates-all-about-xlsx-templates/",
                 "image" : "https://sdmx.io/images/elearning/card-data-collection-with-xlsx-templates.png"
