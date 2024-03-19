@@ -110,7 +110,8 @@
                 "sponsor" : "BIS",
                 "url" : "https://www.sdmx.io/resources/elearning/fusion-metadata-registry-fmr-pro-tips/",
                 "image" : "https://sdmx.io/images/elearning/card-fmr-pro-tips.png"
-
+            },
+            {
                 "topic" : "SDMX data modelling, FMR",
                 "title" : "Recoding: Transforming Data into Different Structures",
                 "type"  : "elearning, self-paced",
@@ -119,7 +120,8 @@
                 "sponsor" : "BIS",
                 "url" : "https://www.sdmx.io/resources/elearning/recoding-transforming-data-into-different-structures/",
                 "image" : "https://sdmx.io/images/elearning/card-recoding-data.png"
-
+            },
+            {
                 "topic" : "Data Collection, FMR",
                 "title" : "Data Collection with XLSX Templates: All about XLSX Templates",
                 "type"  : "elearning, self-paced",
