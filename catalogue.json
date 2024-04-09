@@ -139,7 +139,7 @@
                 "summary" : "This course will help you understand the scope, architecture, and features of SDMX, in particular those features that support more efficient processes for reporting, exchanging and disseminating statistical data and metadata.",
                 "sponsor" : "Eurostat",
                 "url" : "https://cros.ec.europa.eu/book-page/estp-course-sdmx-basics",
-                "image" : "https://cros.ec.europa.eu/system/files/inline-images/EN_03_Euro_SDMX_REGISTRY.png"
+                "image" : "https://cros.ec.europa.eu/system/files/2024-02/ESTP%20icon.png"
             },
             {
                 "topic" : "SDMX Tools",
@@ -149,7 +149,7 @@
                 "summary" : "This course will help you to manage and store SDMX artefacts using the graphical user interface of the Euro SDMX Registry.",
                 "sponsor" : "Eurostat",
                 "url" : "https://cros.ec.europa.eu/book-page/euro-sdmx-registry-course",
-                "image" : "https://cros.ec.europa.eu/system/files/inline-images/EN_03_Euro_SDMX_REGISTRY.png"
+                "image" : "https://cros.ec.europa.eu/system/files/2024-02/Euro-SDMX%20Registry%20training%20logo.png"
             },
             {
                 "topic" : "SDMX Tools",
@@ -159,7 +159,7 @@
                 "summary" : "This course enables participants to learn about the SDMX Converter, one of the tools Eurostat developed to support its implementation of the SDMX standard for the exchange and validation of data.",
                 "sponsor" : "Eurostat",
                 "url" : "https://cros.ec.europa.eu/book-page/sdmx-converter-course",
-                "image" : "https://cros.ec.europa.eu/system/files/inline-images/EN_05_SDMX_CONVERTER.png"
+                "image" : "https://cros.ec.europa.eu/system/files/2024-02/SDMX%20Converter%20Training%20logo.png"
             },
             {
                 "topic" : "SDMX data modelling, Labour Statistics",
