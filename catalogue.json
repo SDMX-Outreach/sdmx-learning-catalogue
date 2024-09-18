@@ -134,12 +134,12 @@
             {
                 "topic" : "SDMX",
                 "title" : "SDMX Basics",
-                "type"  : "In-person",
+                "type"  : "Online",
                 "price" : "free",
                 "summary" : "This course will help you understand the scope, architecture, and features of SDMX, in particular those features that support more efficient processes for reporting, exchanging and disseminating statistical data and metadata.",
                 "sponsor" : "Eurostat",
                 "url" : "https://cros.ec.europa.eu/book-page/estp-course-sdmx-basics",
-                "image" : "https://cros.ec.europa.eu/system/files/2024-02/ESTP%20icon.png"
+                "image" : "https://cros.ec.europa.eu/system/file/pSXOamAL9-eQRRLmkceilG7Ry1MQ_nZb7lA7kVPG6a0/1726567200/styles/social_large/secret/2024-02/ESTP%20icon.png.webp"
             },
             {
                 "topic" : "SDMX Tools",
@@ -149,7 +149,7 @@
                 "summary" : "This course will help you to manage and store SDMX artefacts using the graphical user interface of the Euro SDMX Registry.",
                 "sponsor" : "Eurostat",
                 "url" : "https://cros.ec.europa.eu/book-page/euro-sdmx-registry-course",
-                "image" : "https://cros.ec.europa.eu/system/files/2024-02/Euro-SDMX%20Registry%20training%20logo.png"
+                "image" : "https://ec.europa.eu/eurostat/documents/7589804/17996432/EN_03_Euro_SDMX_REGISTRY.png/b7e298eb-64e5-0a47-6609-c1613a7a1ea0?t=1701270530884"
             },
             {
                 "topic" : "SDMX Tools",
@@ -159,7 +159,7 @@
                 "summary" : "This course enables participants to learn about the SDMX Converter, one of the tools Eurostat developed to support its implementation of the SDMX standard for the exchange and validation of data.",
                 "sponsor" : "Eurostat",
                 "url" : "https://cros.ec.europa.eu/book-page/sdmx-converter-course",
-                "image" : "https://cros.ec.europa.eu/system/files/2024-02/SDMX%20Converter%20Training%20logo.png"
+                "image" : "https://ec.europa.eu/eurostat/documents/7589804/17996432/EN_05_SDMX_CONVERTER.png/1d559d5f-9899-c917-eb1a-d896d67b5089?t=1701270523160"
             },
             {
                 "topic" : "SDMX data modelling, Labour Statistics",
