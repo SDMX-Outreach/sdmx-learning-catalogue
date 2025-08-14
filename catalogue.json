@@ -28,7 +28,7 @@
                 "price" : "free",
                 "summary" : "A simple and quick way to get started with Fusion Metadat Registry in 10 minutes.",
                 "sponsor" : "BIS",
-                "url" : "https://www.sdmx.io/resources/elearning/getting-started-running-fmr-in-docker",
+                "url" : "https://www.sdmx.io/learning/getting-started-running-fmr-in-docker",
                 "image" : "https://www.sdmx.io/images/elearning/running_fmr_docker.png"
             },
             {
@@ -38,7 +38,7 @@
                 "price" : "free",
                 "summary" : "A 1h30m webinar recording introducing Fusion Metadata Registry for beginners",
                 "sponsor" : "BIS",
-                "url" : "https://www.sdmx.io/resources/elearning/introduction-to-fmr",
+                "url" : "https://www.sdmx.io/learning/webinar-introduction-to-fmr",
                 "image" : "https://www.sdmx.io/images/elearning/webinar_introduction_to_fmr%28recording%29.png"
             },
             {
@@ -48,7 +48,7 @@
                 "price" : "free",
                 "summary" : "A 1h30m webinar recording exploring how Fusion Metadata Registry can be used to structurally validate SDMX datasets",
                 "sponsor" : "BIS",
-                "url" : "https://www.sdmx.io/resources/elearning/fmr-validating-sdmx-data",
+                "url" : "https://www.sdmx.io/learning/webinar-fmr-validating-sdmx-data",
                 "image" : "https://www.sdmx.io/images/elearning/validate-recording.jpg"
             },
             {
@@ -58,7 +58,7 @@
                 "price" : "free",
                 "summary" : "A 1h30m webinar recording exploring how Fusion Metadata Registry's Excel reporting templates feature can simplify data collection",
                 "sponsor" : "BIS",
-                "url" : "https://www.sdmx.io/resources/elearning/datacollection-with-excel-templates",
+                "url" : "https://www.sdmx.io/learning/webinar-datacollection-with-excel-templates",
                 "image" : "https://www.sdmx.io/images/elearning/exceltemplate-recording.jpg"
             },
             {
@@ -68,7 +68,7 @@
                 "price" : "free",
                 "summary" : "This course aims to provide you with the knowledge and skills to transform and map statistical logical models to the SDMX standard.",
                 "sponsor" : "BIS",
-                "url" : "https://www.sdmx.io/resources/elearning/essential-sdmx-structural-modelling",
+                "url" : "https://www.sdmx.io/learning/essential-sdmx-structural-modelling",
                 "image" : "https://www.sdmx.io/images/elearning/essential_sdmx_structural_modelling.png"
             },
             {
@@ -78,7 +78,7 @@
                 "price" : "free",
                 "summary" : "This course aims to provide you with an understanding of and ability to create structural models of statistical data.",
                 "sponsor" : "BIS",
-                "url" : "https://www.sdmx.io/resources/elearning/introduction-to-structural-modelling-for-statisticians",
+                "url" : "https://www.sdmx.io/learning/introduction-to-structural-modelling-for-statisticians",
                 "image" : "https://www.sdmx.io/images/elearning/modelling_statisticians.png"
             },
             {
@@ -88,7 +88,7 @@
                 "price" : "free",
                 "summary" : "This course explores how to convert datasets to different transmission formats interactively using the FMR web user interface.",
                 "sponsor" : "BIS",
-                "url" : "https://www.sdmx.io/resources/elearning/data-conversion-fundamentals/",
+                "url" : "https://www.sdmx.io/learning/data-conversion-fundamentals/",
                 "image" : "https://www.sdmx.io/images/elearning/data_conversion.png"
             },
             {
@@ -98,7 +98,7 @@
                 "price" : "free",
                 "summary" : "Building upon the knowledge and skills previously acquired regarding SDMX structural modelling, this module introduces practical knowledge on how to create and manage an SDMX structural model using the Fusion Metadata Registry (FMR).",
                 "sponsor" : "BIS",
-                "url" : "https://www.sdmx.io/resources/elearning/essential-sdmx-and-the-fusion-metadata-registry/",
+                "url" : "https://www.sdmx.io/learning/essential-sdmx-and-the-fusion-metadata-registry/",
                 "image" : "https://sdmx.io/images/elearning/card-essential-sdmx-n-fmr.png"
             },
             {
@@ -108,7 +108,7 @@
                 "price" : "free",
                 "summary" : "The Fusion Metadata Registry (FMR) is a SDMX v2.0, v2.1, and v3.0 compliant structural metadata registry with an extensive set of features. This module is a collection of tips to highlight some of these capabilities and practical ideas on how to use the tool to accomplish your structural metadata maintenance tasks in an efficient manner.",
                 "sponsor" : "BIS",
-                "url" : "https://www.sdmx.io/resources/elearning/fusion-metadata-registry-fmr-pro-tips/",
+                "url" : "https://www.sdmx.io/learning/fusion-metadata-registry-fmr-pro-tips/",
                 "image" : "https://sdmx.io/images/elearning/card-fmr-pro-tips.png"
             },
             {
@@ -118,7 +118,7 @@
                 "price" : "free",
                 "summary" : "Throughout their lifecycle, data are subjected to many operations and transformations as they are massaged, aggregated, summarised, analysed, and customised for a wide range of outputs. The primary focus of this module is on recoding data using the SDMX standard and Fusion Metadata Registry (FMR).",
                 "sponsor" : "BIS",
-                "url" : "https://www.sdmx.io/resources/elearning/recoding-transforming-data-into-different-structures/",
+                "url" : "https://www.sdmx.io/learning/recoding-transforming-data-into-different-structures/",
                 "image" : "https://sdmx.io/images/elearning/card-recoding-data.png"
             },
             {
@@ -128,7 +128,7 @@
                 "price" : "free",
                 "summary" : "Statistical agencies, Central Banks, and other data-driven organisations need to collect data. MS Excel is a common tool used for this purpose. Metadata driven MS XLSX documents enable data collectors to design and run efficient data collection processes in accordance with the SDMX structural model. This approach makes it easier to validate, to integrate these data into production workflows, and to improve data quality.",
                 "sponsor" : "BIS",
-                "url" : "https://www.sdmx.io/resources/elearning/data-collection-with-xlsx-templates-all-about-xlsx-templates/",
+                "url" : "https://www.sdmx.io/learning/data-collection-with-xlsx-templates-all-about-xlsx-templates/",
                 "image" : "https://sdmx.io/images/elearning/card-data-collection-with-xlsx-templates.png"
             },
             {
