@@ -26,7 +26,7 @@
                 "title" : "Running Fusion Metadata Registry in Docker",
                 "type"  : "elearning",
                 "price" : "free",
-                "summary" : "A simple and quick way to get started with Fusion Metadat Registry in 10 minutes.",
+                "summary" : "A simple and quick way to get started with Fusion Metadata Registry in 10 minutes.",
                 "sponsor" : "BIS",
                 "url" : "https://www.sdmx.io/learning/getting-started-running-fmr-in-docker",
                 "image" : "https://www.sdmx.io/images/elearning/running_fmr_docker.png"
@@ -220,6 +220,16 @@
                 "sponsor" : "SIS-CC (OECD)",
                 "url" : "https://academy.siscc.org/courses/disseminating-data-with-an-optimised-end-user-experience",
                 "image" : "https://academy.siscc.org/wp-content/uploads/2022/10/Disseminating-data-with-an-optimised-end-user-experience-Copy.png"              
+            },
+            {
+                "topic" : "SDMX data modelling, .Stat Suite",
+                "title" : "Creating and applying mappings for the .Stat Suite",
+                "type"  : "elearning, self-paced",
+                "price" : "free",
+                "summary" : "In this course you will learn about creating and applying mappings in SDMX using FMR and the .Stat Suite.",
+                "sponsor" : "SIS-CC (OECD)",
+                "url" : "https://academy.siscc.org/courses/creating-and-applying-mappings-for-the-stat-suite/",
+                "image" : "https://academy.siscc.org/wp-content/uploads/2022/08/alvaro-reyes-qWwpHwip31M-unsplash-scaled-e1699464982229.jpg"              
             },
             {
                 "topic" : "SDMX data modelling, SDGs",
