@@ -133,6 +133,16 @@
             },
             {
                 "topic" : "SDMX",
+                "title" : "Crash course on SDMX",
+                "type"  : "Online",
+                "price" : "free",
+                "summary" : "To enable participants to gain a general understanding of the SDMX standard and the most common SDMX artefacts that support the reporting, exchange and dissemination of statistical data.",
+                "sponsor" : "Eurostat",
+                "url" : "https://cros.ec.europa.eu/book-page/crash-course-sdmx",
+                "image" : "https://cros.ec.europa.eu/system/file/e5hREcG0TqTGviXFA7d8Cot5gKO1TRmx2j2DPg75kMo/1762876800/2025-11/Eurostat SDMX Crash Course.png"
+            },
+            {
+                "topic" : "SDMX",
                 "title" : "SDMX Basics",
                 "type"  : "Online",
                 "price" : "free",
