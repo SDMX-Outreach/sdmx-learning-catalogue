@@ -6,9 +6,9 @@
                 "title" : "SDMX Foundation Course",
                 "type"  : "elearning",
                 "price" : "free",
-                "summary" : "This course aims to introduce Statistical Data and Metadata eXchange (SDMX) to managers, supervisors, statisticians, IT experts and other staff of national statistical offices, line ministries of national statistical systems, regional and international organizations, and other organizations involved in statistical data and metadata management.",
+                "summary" : "The course is divided into 2 modules. Module 1 provides a high-level introduction to SDMX and its benefits. Module 2 explains SDMX concepts in more detail, providing actual data producers, handlers, and users (e.g., statisticians and IT practitioners) a theoretical understanding of how SDMX works.",
                 "sponsor" : "ADB",
-                "url" : "https://elearn.adb.org/course/view.php?id=486",
+                "url" : "https://forms.office.com/r/Xw8zFNVvgV",
                 "image" : "https://elearn.adb.org/pluginfile.php/111329/course/overviewfiles/SDMX_logo.jpg"
             },
             {
@@ -16,9 +16,9 @@
                 "title" : "SDMX Tools Course",
                 "type"  : "elearning",
                 "price" : "free",
-                "summary" : "This course will provide an overview of SDMX tools for common scenarios and use cases, and it will delve into a detailed exploration of the features and practical demonstrations.",
+                "summary" : "The course is divided into 2 modules. Module 1 provide participants an overview of SDMX tools for common scenarios or use cases. Module 2 provides an overview of the features and demonstrations on how to use (1) SDMX Constructor, (2) Fusion Metadata Registry, and (3) SDMX Converter for selected use cases.",
                 "sponsor" : "ADB",
-                "url" : "https://elearn.adb.org/enrol/index.php?id=520",
+                "url" : "https://forms.office.com/r/Xw8zFNVvgV",
                 "image" : "https://elearn.adb.org/pluginfile.php/108305/course/overviewfiles/SDMX%20Tools%20Course.png"
             },
             {
